@@ -8,8 +8,8 @@ lance.addEventListener('click', function(){
     if(isNaN(valor)){
         alert('Por favor, insira um valor válido!')
     }else if(valor < lanceMinimo){
-        alert(`O lance mínimo é R$${lanceMinimo.toFixed(2)}`)
+        alert(`O lance mínimo é de R$1000`)
     }else{
-        alert(`Lance de R$${valor.toFixed(2)} enviado com sucesso!`)
+        alert(`Lance enviado com sucesso!`)
     }
 })
