@@ -14,7 +14,7 @@ Este projeto é um site de lances que simula um ambiente de leilão. O objetivo 
    
 2. **Navegue para o Diretório do Projeto**:
     ```bash
-   cd ProjetoLeilao
+   cd PaginaLeilao
 
 3. **Instale as Dependências**:
    ```bash
@@ -28,7 +28,7 @@ Este projeto é um site de lances que simula um ambiente de leilão. O objetivo 
 
 1. **Acesse a Pasta de Testes do Cypress**:
    ```bash
-   cd ProjetoLeilao\projeto-cypress
+   cd projeto-cypress
 
 2. **Instale as Dependências do Cypress**:
    ```bash
